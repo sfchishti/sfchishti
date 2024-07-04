@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sfchishti
 - 👀 I’m interested in remote sensing, data analysis, machine learning, big data, GIS and coding.
-- 🌱 I’m currently learning machine learning, big data
+- 🌱 I’m currently learning machine learning, big data, heat flow
 - 💞️ I’m looking to collaborate on remote sensing, data analysis, machine learning, big data, GIS and coding.
 - 📫 How to reach me sfc2022july@gmail.com, chishti@gfz-potsdam.de, chishti@uni-potsdam.de
 - 😄 Pronouns: she\her
