@@ -4,7 +4,7 @@
 -💞️ I’m looking to collaborate on remote sensing, spatial data analysis, machine learning, data analysis with numerical methods, time-series analysis, and geoInformatics.  
 -📫 How to reach me: sfc2022july@gmail.com | chishti@uni-potsdam.de  
 -😄 Pronouns: she/her  
--⚡ Fun fact: "From nothing we create everything", "Learn by doing"  
+-⚡ Fun fact: I live by “From nothing we create everything” and “Learn by doing.”
 
 ---
 
