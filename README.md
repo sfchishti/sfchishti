@@ -1,8 +1,8 @@
 -👋 Hi, I’m @sfchishti  
--👀 I’m interested in remote sensing, data analysis, machine learning, big data, GIS, and coding.  
+-👀 I’m interested in remote sensing, data analysis, AI, geoInformatics.  
 -🌱 I’m currently learning machine learning, big data, and heat flow.  
--💞️ I’m looking to collaborate on remote sensing, data analysis, machine learning, big data, time-series analysis, GIS, and coding.  
--📫 How to reach me: sfc2022july@gmail.com | chishti@gfz-potsdam.de | chishti@uni-potsdam.de  
+-💞️ I’m looking to collaborate on remote sensing, spatial data analysis, machine learning, data analysis with numerical methods, time-series analysis, and geoInformatics.  
+-📫 How to reach me: sfc2022july@gmail.com | chishti@uni-potsdam.de  
 -😄 Pronouns: she/her  
 -⚡ Fun fact: "From nothing we create everything", "Learn by doing"  
 
