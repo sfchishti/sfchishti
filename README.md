@@ -9,5 +9,5 @@
 ---
 
 ### About hfqa_toolbox
-I am the **main developer and author** of [hfqa_toolbox](https://github.com/ihfc-iugg/hfqa_tool), a project focused on **heat flow data analysis, remote sensing integration, and geospatial data processing**.  
+I am the **sole developer and author** of [hfqa_toolbox](https://github.com/ihfc-iugg/hfqa_tool), a project focused on **heat flow data analysis, remote sensing integration, and geospatial data processing**.  
 The toolbox is designed for **scientists, researchers, and GIS enthusiasts** to streamline data analysis workflows and visualize complex datasets efficiently.
